@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Brother Gabriel",
+    "coordinates": {
+      "x": 12.34,
+      "y": 56.78
+    },
+    "creationDate": "2022-05-02T14:30:00",
+    "health": 85.0,
+    "heartCount": 1,
+    "category": "TACTICAL",
+    "weaponType": "BOLTGUN",
+    "chapter": {
+      "name": "Ultramarines",
+      "parentLegion": "Black",
+      "marinesCount": 100,
+      "world": "Macragge"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Brother Leon",
+    "coordinates": {
+      "x": 9.87,
+      "y": 6.54
+    },
+    "creationDate": "2022-05-01T12:15:30",
+    "health": 100.0,
+    "heartCount": 2,
+    "category": "LIBRARIAN",
+    "weaponType": "GRENADE_LAUNCHER",
+    "chapter": {
+      "name": "Blood Angels",
+      "parentLegion": "Black",
+      "marinesCount": 800,
+      "world": "Baal"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Brother Nathanael",
+    "coordinates": {
+      "x": 45.67,
+      "y": 89.01
+    },
+    "creationDate": "2022-04-30T09:45:00",
+    "health": 60.5,
+    "heartCount": 3,
+    "category": "DREADNOUGHT",
+    "weaponType": "MULTI_MELTA",
+    "chapter": {
+      "name": "Imperial Fists",
+      "parentLegion": "Black",
+      "marinesCount": 500,
+      "world": "Terra"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Brother Ezekiel",
+    "coordinates": {
+      "x": 1.23,
+      "y": 4.56
+    },
+    "creationDate": "2022-05-02T18:00:00",
+    "health": 75.0,
+    "heartCount": 3,
+    "category": "CHAPLAIN",
+    "weaponType": "MELTAGUN",
+    "chapter": {
+      "name": "Black Templars",
+      "parentLegion": "Black",
+      "marinesCount": 300,
+      "world": "Armageddon"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Brother Lucius",
+    "coordinates": {
+      "x": 33.33,
+      "y": 44.44
+    },
+    "creationDate": "2022-05-01T22:30:45",
+    "health": 95.0,
+    "heartCount": 3,
+    "category": "HELIX",
+    "weaponType": "BOLTGUN",
+    "chapter": {
+      "name": "Iron Hands",
+      "parentLegion": "Black",
+      "marinesCount": 700,
+      "world": "Medusa"
+    }
+  }
+]
