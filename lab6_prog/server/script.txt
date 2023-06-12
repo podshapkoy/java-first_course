@@ -1,0 +1,5 @@
+info
+head
+clear
+show
+
